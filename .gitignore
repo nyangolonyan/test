@@ -1,0 +1,6 @@
+log/*log
+code/*sas
+data/datasets/*sas7bdat
+data/raw_data/*xlsx
+reports/*rtf
+reports/*pdf
